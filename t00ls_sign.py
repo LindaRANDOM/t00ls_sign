@@ -54,3 +54,5 @@ elif(rsinj["message"] == "alreadysign"):
   print("今天已经签到过了！")
 else :
   raise Exception('签到失败', rsign.text)
+
+
