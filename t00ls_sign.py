@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
-''' 修改自 https://www.t00ls.net/viewthread.php?tid=55689 '''
+''' 修改自 https://www.t00ls.c0m/viewthread.php?tid=55689 '''
 import requests
 import json
 import hashlib
